@@ -9,3 +9,7 @@ https://github.com/Kukulim/SkillUp
 - 🤔 I’m looking for help with: my project https://github.com/Kukulim/SkillUp
 - 💬 Ask me about: Anything :)
 - 📫 How to reach me: lukaszbekus@interia.pl
+
+### My Apps:
+ - https://dziennik-treningowy.azurewebsites.net/ - .NET MVC 5
+ - https://memory-game-lb.azurewebsites.net/ - Vue

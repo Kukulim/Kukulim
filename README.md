@@ -12,6 +12,6 @@ https://github.com/Kukulim/SkillUp
 
 ### My Apps:
  - https://dziennik-treningowy.azurewebsites.net/ - .NET MVC 5
- - https://memory-game-lb.azurewebsites.net/ - Vue
+ - https://memory-lb.netlify.app - Vue
  - https://math-lb.netlify.app -js math game
  - https://restmore-lb.netlify.app - static site (no rwd, my first project :)

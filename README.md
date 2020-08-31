@@ -13,7 +13,7 @@
 ### My Apps:
  - https://dziennik-treningowy.azurewebsites.net/ - personal training diary (lang:pl) (.NET MVC 5)
  - https://dahaim-lb.azurewebsites.net/ - language learning platform (lang:pl) (.NET MVC 5)
- 
+ ---------------------
  - https://memory-lb.netlify.app - memory game  (Vue)
  - https://math-lb.netlify.app - math game (js)
  - https://restmore-lb.netlify.app - static site (no rwd, my first project :)

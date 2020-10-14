@@ -31,8 +31,8 @@
 ----------
 
 ### My Apps:
- - https://dziennik-treningowy-lb.azurewebsites.net/ - personal training diary (lang:pl) (.NET MVC 5)
- - https://dahaim-lb.azurewebsites.net/ - language learning platform (lang:pl) (.NET MVC 5)
+ - https://dziennik-treningowy-lb.azurewebsites.net/ - personal training diary (lang:pl) (.NET MVC 5) (back soon...)
+ - https://dahaim-lb.azurewebsites.net/ - language learning platform (lang:pl) (.NET MVC 5) (back soon...)
  - https://skarb-kibica-lb.netlify.app/ - fan's book (Vue + .net core API)
  ---------------------
  - https://memory-lb.netlify.app - memory game  (Vue)

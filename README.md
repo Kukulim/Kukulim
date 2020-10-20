@@ -31,8 +31,8 @@
 ----------
 
 ### My Apps:
- - https://dziennik-treningowy.lb.hostingasp.pl - personal training diary (lang:pl) (.NET MVC 5)
- - https://dahaim.lb.hostingasp.pl - language learning platform (lang:pl) (.NET MVC 5)
+ - www.dziennik-treningowy.lb.hostingasp.pl - personal training diary (lang:pl) (.NET MVC 5)
+ - www.dahaim.lb.hostingasp.pl - language learning platform (lang:pl) (.NET MVC 5)
  - https://skarb-kibica-lb.netlify.app/ - fan's book (Vue + .net core API)
  ---------------------
  - https://memory-lb.netlify.app - memory game  (Vue)
